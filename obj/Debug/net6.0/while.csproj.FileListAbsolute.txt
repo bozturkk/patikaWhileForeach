@@ -1,0 +1,15 @@
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/bin/Debug/net6.0/while
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/bin/Debug/net6.0/while.deps.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/bin/Debug/net6.0/while.runtimeconfig.json
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/bin/Debug/net6.0/while.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/bin/Debug/net6.0/while.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/obj/Debug/net6.0/while.csproj.AssemblyReference.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/obj/Debug/net6.0/while.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/obj/Debug/net6.0/while.AssemblyInfoInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/obj/Debug/net6.0/while.AssemblyInfo.cs
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/obj/Debug/net6.0/while.csproj.CoreCompileInputs.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/obj/Debug/net6.0/while.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/obj/Debug/net6.0/refint/while.dll
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/obj/Debug/net6.0/while.pdb
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/obj/Debug/net6.0/while.genruntimeconfig.cache
+/Users/cokoprens/Desktop/PatikaDevPratikler/while/obj/Debug/net6.0/ref/while.dll
